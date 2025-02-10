@@ -1,8 +1,13 @@
-# React + Vite
+ Fitness Companion
+🏋️ About 
+It is a modern, user-friendly fitness tracking app designed to help you stay on top of your health and workouts. Whether you're a beginner or a pro, Swoley Fit provides personalized fitness plans, progress tracking, and insights to keep you motivated on your fitness journey.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 Key Features
+✅ Workout planner with customizable routines
+✅ Track your progress with interactive charts
+✅ Nutrition and calorie tracking
+✅ Community challenges and leaderboards
+✅ Dark mode for an enhanced user experience
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+⚡ Tech Stack
+Frontend: React.js + Vite
