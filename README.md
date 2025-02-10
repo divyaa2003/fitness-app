@@ -1,4 +1,5 @@
  Fitness Companion
+ 
 🏋️ About 
 It is a modern, user-friendly fitness tracking app designed to help you stay on top of your health and workouts. Whether you're a beginner or a pro, Swoley Fit provides personalized fitness plans, progress tracking, and insights to keep you motivated on your fitness journey.
 
